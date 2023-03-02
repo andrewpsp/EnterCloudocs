@@ -21,9 +21,9 @@ viewObject
 
 
 Onboarding documentation: 
-![ccc-tool and dashboard][dashboard]
+![ccc dashboard][dashboard]
 
-[dashboard]: /site/static/img/ccc-tool-dashboard.png "ccc dashbaord"ls
+[dashboard]: https://github.com/andrewpsp/EnterCloudocs/blob/main/site/static/img/ccc-tool-dashboard.png "ccc dashbaord"
 
 
 
