@@ -20,8 +20,15 @@ IAM AUTH
 viewObject
 
 
+Onboarding documentation: 
+![ccc-tool and dashboard][dashboard]
+
+[dashboard]: /site/static/img/ccc-tool-dashboard.png "ccc dashbaord"ls
+
+
 
 
 ## Layouts
 dbaname - code -topic - product 
 product - code
+
